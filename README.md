@@ -3,7 +3,7 @@
 | Şirket Adı / Company Name      | Şehir / City    | Web Adresi / WWW |
 |------------------|----------|--------------------------|
 | Ada Dijital Ajans | İstanbul | http://ada.agency |
-| Algolina Spirulina | İstanbul | https://www.algolinaspirulina.com/ |
+| Algolina Spirulina | İstanbul | https://www.algolinaspirulina.com |
 | Atölye15          | İzmir    | https://atolye15.com   |
 | Bahçeşehir Üniversitesi | İstanbul | http://bau.edu.tr      |
 | Bilkent Üniversitesi | Ankara | http://bilkent.edu.tr      |
@@ -17,7 +17,7 @@
 | Gazi Üniversitesi | Ankara | http://gazi.edu.tr |
 | GittiGidiyor | İstanbul | http://www.gittigidiyor.com |
 | Gündoğdu Mobilya | Trabzon | https://www.gundogdumobilya.com.tr |
-| keskin Diş Kliniği | İstanbul | https://hamzakeskin.com/ |
+| keskin Diş Kliniği | İstanbul | https://hamzakeskin.com |
 | Hobium | İstanbul | https://www.hobium.com |
 | ideasoft | İstanbul | http://ideasoft.com.tr |
 | Kolay İK | İstanbul | http://kolayik.com      |
@@ -38,7 +38,7 @@
 | Sendloop | İstanbul | http://sendloop.com      |
 | Sixt Rent a Car | İzmir | https://www.sixt.com.tr      |
 | Sony | İstanbul | http://sony.com.tr      |
-| Tatilnekolay | Antalya | https://www.tatilnekolay.com/     |
+| Tatilnekolay | Antalya | https://www.tatilnekolay.com    |
 | Teknasyon Teknoloji | İstanbul | http://teknasyon.com      |
 | Tmp Makina | İstanbul | https://www.tmpmakina.com/tr     |
 | UseInsider | İstanbul | http://insider.com      |
