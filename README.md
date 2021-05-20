@@ -44,6 +44,8 @@
 | UseInsider | İstanbul | http://insider.com      |
 | Vidobu.com | İstanbul | http://vidobu.com      |
 | Vivense.com | İstanbul | http://vivense.com      |
+| Yıldızlar Holding | İstanbul | https://www.yildiz.com |
+| Yıldızlar Demir Çelik | İstanbul | https://www.yildizdemircelik.com.tr |
 | Yazılım Parkı | Ankara | http://yazilimparki.com.tr |
 | Zingat | İstanbul | https://zingat.com      |
 
